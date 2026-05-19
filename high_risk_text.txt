@@ -1,0 +1,2142 @@
+SYNTHESIZED DATA VERSION
+Income Tax Department - Government of India
+Annual Information Statement (AIS)
+Page 1 of 15
+Part A - General Information
+Field
+Details
+PAN
+ABCDE1234F
+Name
+Sample Taxpayer
+Assessment Year
+2023-24
+Address
+Hyderabad, Telangana
+
+Part B1 - Information relating to Tax Deducted at Source
+Section
+Description
+Deductor
+Quarter
+Amount (I)
+Status
+194A
+Interest Other than Securities
+Bank 1 Ltd.
+Q3
+18049
+Active
+194A
+Interest Other than Securities
+Bank 2 Ltd.
+Q4
+18203
+Active
+194A
+Interest Other than Securities
+Bank 3 Ltd.
+Q2
+16922
+Active
+194A
+Interest Other than Securities
+Bank 4 Ltd.
+Q3
+16452
+Active
+194A
+Interest Other than Securities
+Bank 5 Ltd.
+Q2
+18219
+Active
+194A
+Interest Other than Securities
+Bank 6 Ltd.
+Q2
+17162
+Active
+194A
+Interest Other than Securities
+Bank 7 Ltd.
+Q3
+15265
+Active
+194A
+Interest Other than Securities
+Bank 8 Ltd.
+Q3
+18736
+Active
+194A
+Interest Other than Securities
+Bank 9 Ltd.
+Q1
+17691
+Active
+194A
+Interest Other than Securities
+Bank 10 Ltd.
+Q2
+16875
+Active
+194A
+Interest Other than Securities
+Bank 11 Ltd.
+Q2
+16110
+Active
+194A
+Interest Other than Securities
+Bank 12 Ltd.
+Q1
+18459
+Active
+194A
+Interest Other than Securities
+Bank 13 Ltd.
+Q4
+15520
+Active
+194A
+Interest Other than Securities
+Bank 14 Ltd.
+Q3
+17232
+Active
+194A
+Interest Other than Securities
+Bank 15 Ltd.
+Q4
+18688
+Active
+194A
+Interest Other than Securities
+Bank 16 Ltd.
+Q3
+15943
+Active
+194A
+Interest Other than Securities
+Bank 17 Ltd.
+Q1
+17789
+Active
+194A
+Interest Other than Securities
+Bank 18 Ltd.
+Q2
+15028
+Active
+194A
+Interest Other than Securities
+Bank 19 Ltd.
+Q1
+16337
+Active
+194A
+Interest Other than Securities
+Bank 20 Ltd.
+Q3
+18068
+Active
+194A
+Interest Other than Securities
+Bank 21 Ltd.
+Q4
+17136
+Active
+194A
+Interest Other than Securities
+Bank 22 Ltd.
+Q4
+15802
+Active
+194A
+Interest Other than Securities
+Bank 23 Ltd.
+Q3
+18469
+Active
+194A
+Interest Other than Securities
+Bank 24 Ltd.
+Q3
+17849
+Active
+194A
+Interest Other than Securities
+Bank 25 Ltd.
+Q1
+17477
+Active
+194A
+Interest Other than Securities
+Bank 26 Ltd.
+Q2
+15876
+Active
+194A
+Interest Other than Securities
+Bank 27 Ltd.
+Q3
+18467
+Active
+194A
+Interest Other than Securities
+Bank 28 Ltd.
+Q2
+16497
+Active
+194A
+Interest Other than Securities
+Bank 29 Ltd.
+Q3
+18022
+Active
+194A
+Interest Other than Securities
+Bank 30 Ltd.
+Q4
+15705
+Active
+194A
+Interest Other than Securities
+Bank 31 Ltd.
+Q3
+16158
+Active
+194A
+Interest Other than Securities
+Bank 32 Ltd.
+Q4
+17393
+Active
+194A
+Interest Other than Securities
+Bank 33 Ltd.
+Q4
+18838
+Active
+194A
+Interest Other than Securities
+Bank 34 Ltd.
+Q3
+17964
+Active
+
+Section
+Description
+Deductor
+Quarter
+Amount (I)
+Status
+194A
+Interest Other than Securities
+Bank 35 Ltd.
+Q4
+15963
+Active
+194A
+Interest Other than Securities
+Bank 36 Ltd.
+Q4
+17235
+Active
+194A
+Interest Other than Securities
+Bank 37 Ltd.
+Q3
+15124
+Active
+194A
+Interest Other than Securities
+Bank 38 Ltd.
+Q2
+16009
+Active
+194A
+Interest Other than Securities
+Bank 39 Ltd.
+Q1
+16051
+Active
+194A
+Interest Other than Securities
+Bank 40 Ltd.
+Q3
+16212
+Active
+194A
+Interest Other than Securities
+Bank 41 Ltd.
+Q4
+16315
+Active
+194A
+Interest Other than Securities
+Bank 42 Ltd.
+Q2
+17814
+Active
+194A
+Interest Other than Securities
+Bank 43 Ltd.
+Q3
+15857
+Active
+194A
+Interest Other than Securities
+Bank 44 Ltd.
+Q1
+15412
+Active
+194A
+Interest Other than Securities
+Bank 45 Ltd.
+Q4
+18349
+Active
+194A
+Interest Other than Securities
+Bank 46 Ltd.
+Q3
+18918
+Active
+194A
+Interest Other than Securities
+Bank 47 Ltd.
+Q3
+16301
+Active
+194A
+Interest Other than Securities
+Bank 48 Ltd.
+Q1
+16575
+Active
+194A
+Interest Other than Securities
+Bank 49 Ltd.
+Q4
+15101
+Active
+194A
+Interest Other than Securities
+Bank 50 Ltd.
+Q3
+17388
+Active
+194A
+Interest Other than Securities
+Bank 51 Ltd.
+Q4
+17334
+Active
+194A
+Interest Other than Securities
+Bank 52 Ltd.
+Q2
+17438
+Active
+194A
+Interest Other than Securities
+Bank 53 Ltd.
+Q3
+15492
+Active
+194A
+Interest Other than Securities
+Bank 54 Ltd.
+Q1
+15834
+Active
+194A
+Interest Other than Securities
+Bank 55 Ltd.
+Q1
+17911
+Active
+194A
+Interest Other than Securities
+Bank 56 Ltd.
+Q3
+18139
+Active
+194A
+Interest Other than Securities
+Bank 57 Ltd.
+Q3
+17229
+Active
+194A
+Interest Other than Securities
+Bank 58 Ltd.
+Q3
+15539
+Active
+194A
+Interest Other than Securities
+Bank 59 Ltd.
+Q3
+15712
+Active
+194A
+Interest Other than Securities
+Bank 60 Ltd.
+Q1
+17501
+Active
+194A
+Interest Other than Securities
+Bank 61 Ltd.
+Q1
+18587
+Active
+194A
+Interest Other than Securities
+Bank 62 Ltd.
+Q4
+16276
+Active
+194A
+Interest Other than Securities
+Bank 63 Ltd.
+Q2
+17023
+Active
+194A
+Interest Other than Securities
+Bank 64 Ltd.
+Q3
+15940
+Active
+194A
+Interest Other than Securities
+Bank 65 Ltd.
+Q1
+17973
+Active
+194A
+Interest Other than Securities
+Bank 66 Ltd.
+Q3
+15532
+Active
+194A
+Interest Other than Securities
+Bank 67 Ltd.
+Q2
+15308
+Active
+194A
+Interest Other than Securities
+Bank 68 Ltd.
+Q1
+18559
+Active
+194A
+Interest Other than Securities
+Bank 69 Ltd.
+Q1
+16133
+Active
+194A
+Interest Other than Securities
+Bank 70 Ltd.
+Q2
+17536
+Active
+194A
+Interest Other than Securities
+Bank 71 Ltd.
+Q2
+15123
+Active
+
+Section
+Description
+Deductor
+Quarter
+Amount (I)
+Status
+194A
+Interest Other than Securities
+Bank 72 Ltd.
+Q2
+18187
+Active
+194A
+Interest Other than Securities
+Bank 73 Ltd.
+Q3
+15303
+Active
+194A
+Interest Other than Securities
+Bank 74 Ltd.
+Q3
+18719
+Active
+194A
+Interest Other than Securities
+Bank 75 Ltd.
+Q4
+17911
+Active
+194A
+Interest Other than Securities
+Bank 76 Ltd.
+Q2
+18853
+Active
+194A
+Interest Other than Securities
+Bank 77 Ltd.
+Q2
+16095
+Active
+194A
+Interest Other than Securities
+Bank 78 Ltd.
+Q1
+16698
+Active
+194A
+Interest Other than Securities
+Bank 79 Ltd.
+Q2
+16107
+Active
+194A
+Interest Other than Securities
+Bank 80 Ltd.
+Q2
+16018
+Active
+194A
+Interest Other than Securities
+Bank 81 Ltd.
+Q1
+17817
+Active
+194A
+Interest Other than Securities
+Bank 82 Ltd.
+Q2
+17628
+Active
+194A
+Interest Other than Securities
+Bank 83 Ltd.
+Q1
+17107
+Active
+194A
+Interest Other than Securities
+Bank 84 Ltd.
+Q4
+17255
+Active
+194A
+Interest Other than Securities
+Bank 85 Ltd.
+Q4
+17863
+Active
+194A
+Interest Other than Securities
+Bank 86 Ltd.
+Q2
+17053
+Active
+194A
+Interest Other than Securities
+Bank 87 Ltd.
+Q4
+15250
+Active
+194A
+Interest Other than Securities
+Bank 88 Ltd.
+Q2
+16611
+Active
+194A
+Interest Other than Securities
+Bank 89 Ltd.
+Q1
+17965
+Active
+194A
+Interest Other than Securities
+Bank 90 Ltd.
+Q4
+17701
+Active
+194A
+Interest Other than Securities
+Bank 91 Ltd.
+Q3
+16006
+Active
+194A
+Interest Other than Securities
+Bank 92 Ltd.
+Q2
+18467
+Active
+194A
+Interest Other than Securities
+Bank 93 Ltd.
+Q3
+17113
+Active
+194A
+Interest Other than Securities
+Bank 94 Ltd.
+Q1
+16523
+Active
+194A
+Interest Other than Securities
+Bank 95 Ltd.
+Q2
+18053
+Active
+194A
+Interest Other than Securities
+Bank 96 Ltd.
+Q1
+15465
+Active
+194A
+Interest Other than Securities
+Bank 97 Ltd.
+Q1
+15665
+Active
+194A
+Interest Other than Securities
+Bank 98 Ltd.
+Q3
+15285
+Active
+194A
+Interest Other than Securities
+Bank 99 Ltd.
+Q2
+18726
+Active
+194A
+Interest Other than Securities
+Bank 100 Ltd.
+Q2
+17404
+Active
+194A
+Interest Other than Securities
+Bank 101 Ltd.
+Q3
+18209
+Active
+194A
+Interest Other than Securities
+Bank 102 Ltd.
+Q2
+18258
+Active
+194A
+Interest Other than Securities
+Bank 103 Ltd.
+Q2
+18279
+Active
+194A
+Interest Other than Securities
+Bank 104 Ltd.
+Q3
+18565
+Active
+194A
+Interest Other than Securities
+Bank 105 Ltd.
+Q2
+16530
+Active
+194A
+Interest Other than Securities
+Bank 106 Ltd.
+Q4
+18681
+Active
+194A
+Interest Other than Securities
+Bank 107 Ltd.
+Q3
+18608
+Active
+194A
+Interest Other than Securities
+Bank 108 Ltd.
+Q3
+16225
+Active
+
+Section
+Description
+Deductor
+Quarter
+Amount (I)
+Status
+194A
+Interest Other than Securities
+Bank 109 Ltd.
+Q4
+17736
+Active
+194A
+Interest Other than Securities
+Bank 110 Ltd.
+Q1
+18467
+Active
+194A
+Interest Other than Securities
+Bank 111 Ltd.
+Q3
+15725
+Active
+194A
+Interest Other than Securities
+Bank 112 Ltd.
+Q3
+15104
+Active
+194A
+Interest Other than Securities
+Bank 113 Ltd.
+Q1
+18698
+Active
+194A
+Interest Other than Securities
+Bank 114 Ltd.
+Q1
+16946
+Active
+194A
+Interest Other than Securities
+Bank 115 Ltd.
+Q4
+17729
+Active
+194A
+Interest Other than Securities
+Bank 116 Ltd.
+Q3
+17888
+Active
+194A
+Interest Other than Securities
+Bank 117 Ltd.
+Q3
+16537
+Active
+194A
+Interest Other than Securities
+Bank 118 Ltd.
+Q1
+17409
+Active
+194A
+Interest Other than Securities
+Bank 119 Ltd.
+Q1
+16214
+Active
+194A
+Interest Other than Securities
+Bank 120 Ltd.
+Q1
+16713
+Active
+
+Part B2 - Specified Financial Transactions (SFT)
+Transaction Type
+Fund Name
+Units
+NAV (I)
+Amount (I)
+Date
+Sale of Mutual Fund
+Equity Growth Fund 1
+108
+24.17
+10442.81
+01/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 2
+179
+39.95
+28606.31
+02/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 3
+158
+39.61
+25030.94
+03/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 4
+141
+49.35
+27834.5
+04/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 5
+193
+29.72
+22941.01
+05/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 6
+111
+23.94
+10629.86
+06/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 7
+122
+25.18
+12285.86
+07/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 8
+135
+20.96
+11321.05
+08/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 9
+135
+44.72
+24146.83
+09/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 10
+182
+22.28
+16223.23
+10/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 11
+171
+46.81
+32017.9
+11/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 12
+150
+21.45
+12871.87
+12/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 13
+185
+44.4
+32855.52
+13/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 14
+198
+25.87
+20491.15
+14/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 15
+180
+20.69
+14898.6
+15/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 16
+176
+41.05
+28896.64
+16/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 17
+163
+20.08
+13091.83
+17/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 18
+155
+28.93
+17936.66
+18/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 19
+130
+21.71
+11290.65
+19/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 20
+170
+23.64
+16075.88
+20/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 21
+176
+23.76
+16728.67
+21/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 22
+106
+41.7
+17678.98
+22/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 23
+157
+49.16
+30875.4
+23/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 24
+177
+27.34
+19355.02
+24/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 25
+188
+31.97
+24039.32
+25/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 26
+179
+31.23
+22361.89
+26/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 27
+175
+27.7
+19392.74
+27/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 28
+146
+41.38
+24166.57
+28/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 29
+150
+28.14
+16883.62
+29/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 30
+197
+35.43
+27920.76
+30/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 31
+114
+23.89
+10894.98
+31/08/2022
+Sale of Mutual Fund
+Equity Growth Fund 32
+135
+45.44
+24537.0
+01/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 33
+167
+40.62
+27134.95
+02/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 34
+112
+36.16
+16200.92
+03/09/2022
+
+Transaction Type
+Fund Name
+Units
+NAV (I)
+Amount (I)
+Date
+Sale of Mutual Fund
+Equity Growth Fund 35
+162
+38.42
+24897.82
+04/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 36
+187
+26.73
+19994.86
+05/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 37
+155
+45.32
+28099.44
+06/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 38
+100
+23.67
+9468.91
+07/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 39
+121
+46.43
+22474.33
+08/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 40
+100
+38.39
+15357.68
+09/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 41
+133
+48.21
+25648.32
+10/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 42
+177
+28.64
+20280.58
+11/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 43
+105
+48.06
+20185.8
+12/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 44
+196
+39.15
+30692.98
+13/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 45
+193
+20.3
+15671.33
+14/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 46
+121
+23.09
+11173.98
+15/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 47
+144
+37.79
+21764.75
+16/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 48
+108
+22.85
+9872.24
+17/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 49
+153
+42.44
+25971.02
+18/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 50
+100
+40.16
+16063.66
+19/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 51
+128
+25.62
+13117.57
+20/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 52
+162
+39.11
+25341.83
+21/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 53
+108
+37.0
+15984.69
+22/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 54
+186
+27.39
+20378.18
+23/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 55
+184
+41.23
+30342.99
+24/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 56
+186
+27.54
+20489.18
+25/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 57
+105
+45.94
+19295.57
+26/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 58
+179
+31.89
+22831.28
+27/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 59
+139
+34.86
+19381.11
+28/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 60
+161
+39.84
+25656.84
+29/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 61
+114
+46.49
+21198.97
+30/09/2022
+Sale of Mutual Fund
+Equity Growth Fund 62
+174
+33.69
+23444.77
+01/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 63
+112
+39.65
+17761.87
+02/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 64
+139
+37.91
+21075.45
+03/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 65
+130
+22.16
+11525.57
+04/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 66
+169
+38.99
+26355.02
+05/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 67
+158
+21.39
+13519.12
+06/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 68
+133
+35.17
+18709.55
+07/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 69
+129
+23.2
+11969.04
+08/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 70
+144
+38.26
+22037.96
+09/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 71
+148
+41.63
+24644.68
+10/10/2022
+
+Transaction Type
+Fund Name
+Units
+NAV (I)
+Amount (I)
+Date
+Sale of Mutual Fund
+Equity Growth Fund 72
+162
+43.57
+28235.57
+11/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 73
+175
+37.7
+26390.23
+12/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 74
+174
+49.68
+34576.54
+13/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 75
+158
+30.8
+19463.68
+14/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 76
+105
+20.34
+8542.77
+15/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 77
+158
+44.55
+28157.27
+16/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 78
+109
+33.57
+14636.51
+17/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 79
+165
+36.28
+23943.15
+18/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 80
+138
+45.41
+25066.38
+19/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 81
+132
+27.86
+14709.92
+20/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 82
+153
+29.8
+18239.09
+21/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 83
+171
+22.9
+15664.49
+22/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 84
+144
+40.45
+23301.36
+23/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 85
+133
+26.39
+14039.4
+24/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 86
+178
+45.6
+32465.16
+25/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 87
+130
+38.31
+19920.24
+26/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 88
+153
+47.34
+28972.67
+27/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 89
+175
+21.83
+15280.89
+28/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 90
+197
+49.75
+39203.99
+29/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 91
+104
+31.93
+13284.46
+30/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 92
+147
+36.37
+21385.5
+31/10/2022
+Sale of Mutual Fund
+Equity Growth Fund 93
+190
+39.31
+29877.14
+01/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 94
+166
+34.56
+22946.74
+02/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 95
+180
+35.84
+25802.39
+03/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 96
+157
+32.51
+20419.21
+04/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 97
+120
+25.61
+12291.12
+05/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 98
+104
+49.08
+20418.65
+06/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 99
+159
+44.03
+28004.91
+07/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 100
+170
+37.94
+25796.99
+08/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 101
+105
+21.7
+9112.93
+09/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 102
+148
+46.84
+27730.29
+10/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 103
+130
+22.32
+11607.53
+11/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 104
+138
+43.47
+23992.93
+12/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 105
+181
+21.76
+15757.83
+13/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 106
+163
+42.84
+27930.39
+14/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 107
+124
+45.34
+22487.3
+15/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 108
+156
+33.49
+20899.31
+16/11/2022
+
+Transaction Type
+Fund Name
+Units
+NAV (I)
+Amount (I)
+Date
+Sale of Mutual Fund
+Equity Growth Fund 109
+183
+36.64
+26818.77
+17/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 110
+198
+45.13
+35740.93
+18/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 111
+110
+49.12
+21613.07
+19/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 112
+146
+20.53
+11991.29
+20/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 113
+151
+23.89
+14431.75
+21/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 114
+118
+45.92
+21676.3
+22/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 115
+150
+40.36
+24213.87
+23/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 116
+145
+28.17
+16339.14
+24/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 117
+182
+33.35
+24281.57
+25/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 118
+100
+23.34
+9334.07
+26/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 119
+120
+20.86
+10013.01
+27/11/2022
+Sale of Mutual Fund
+Equity Growth Fund 120
+149
+41.96
+25007.89
+28/11/2022
+
+Part B7 - Information relating to GST
+GSTIN
+Supplier Name
+Invoice No.
+Purchase Amount (I)
+Status
+04ABCDE00000F1Z5
+Supplier 1 Pvt Ltd
+INV0001
+98431
+Filed
+04ABCDE00001F1Z5
+Supplier 2 Pvt Ltd
+INV0002
+96144
+Filed
+04ABCDE00002F1Z5
+Supplier 3 Pvt Ltd
+INV0003
+96807
+Filed
+04ABCDE00003F1Z5
+Supplier 4 Pvt Ltd
+INV0004
+80355
+Filed
+04ABCDE00004F1Z5
+Supplier 5 Pvt Ltd
+INV0005
+94257
+Filed
+04ABCDE00005F1Z5
+Supplier 6 Pvt Ltd
+INV0006
+84642
+Filed
+04ABCDE00006F1Z5
+Supplier 7 Pvt Ltd
+INV0007
+91019
+Filed
+04ABCDE00007F1Z5
+Supplier 8 Pvt Ltd
+INV0008
+87234
+Filed
+04ABCDE00008F1Z5
+Supplier 9 Pvt Ltd
+INV0009
+82726
+Filed
+04ABCDE00009F1Z5
+Supplier 10 Pvt Ltd
+INV0010
+94345
+Filed
+04ABCDE00010F1Z5
+Supplier 11 Pvt Ltd
+INV0011
+86880
+Filed
+04ABCDE00011F1Z5
+Supplier 12 Pvt Ltd
+INV0012
+96155
+Filed
+04ABCDE00012F1Z5
+Supplier 13 Pvt Ltd
+INV0013
+87185
+Filed
+04ABCDE00013F1Z5
+Supplier 14 Pvt Ltd
+INV0014
+86668
+Filed
+04ABCDE00014F1Z5
+Supplier 15 Pvt Ltd
+INV0015
+93586
+Filed
+04ABCDE00015F1Z5
+Supplier 16 Pvt Ltd
+INV0016
+85709
+Filed
+04ABCDE00016F1Z5
+Supplier 17 Pvt Ltd
+INV0017
+82844
+Filed
+04ABCDE00017F1Z5
+Supplier 18 Pvt Ltd
+INV0018
+92535
+Filed
+04ABCDE00018F1Z5
+Supplier 19 Pvt Ltd
+INV0019
+96686
+Filed
+04ABCDE00019F1Z5
+Supplier 20 Pvt Ltd
+INV0020
+80855
+Filed
+04ABCDE00020F1Z5
+Supplier 21 Pvt Ltd
+INV0021
+87083
+Filed
+04ABCDE00021F1Z5
+Supplier 22 Pvt Ltd
+INV0022
+88131
+Filed
+04ABCDE00022F1Z5
+Supplier 23 Pvt Ltd
+INV0023
+82620
+Filed
+04ABCDE00023F1Z5
+Supplier 24 Pvt Ltd
+INV0024
+92768
+Filed
+04ABCDE00024F1Z5
+Supplier 25 Pvt Ltd
+INV0025
+83795
+Filed
+04ABCDE00025F1Z5
+Supplier 26 Pvt Ltd
+INV0026
+84423
+Filed
+04ABCDE00026F1Z5
+Supplier 27 Pvt Ltd
+INV0027
+84441
+Filed
+04ABCDE00027F1Z5
+Supplier 28 Pvt Ltd
+INV0028
+98942
+Filed
+04ABCDE00028F1Z5
+Supplier 29 Pvt Ltd
+INV0029
+93333
+Filed
+04ABCDE00029F1Z5
+Supplier 30 Pvt Ltd
+INV0030
+80874
+Filed
+04ABCDE00030F1Z5
+Supplier 31 Pvt Ltd
+INV0031
+95445
+Filed
+04ABCDE00031F1Z5
+Supplier 32 Pvt Ltd
+INV0032
+85012
+Filed
+04ABCDE00032F1Z5
+Supplier 33 Pvt Ltd
+INV0033
+94771
+Filed
+04ABCDE00033F1Z5
+Supplier 34 Pvt Ltd
+INV0034
+92279
+Filed
+
+GSTIN
+Supplier Name
+Invoice No.
+Purchase Amount (I)
+Status
+04ABCDE00034F1Z5
+Supplier 35 Pvt Ltd
+INV0035
+91032
+Filed
+04ABCDE00035F1Z5
+Supplier 36 Pvt Ltd
+INV0036
+84801
+Filed
+04ABCDE00036F1Z5
+Supplier 37 Pvt Ltd
+INV0037
+90043
+Filed
+04ABCDE00037F1Z5
+Supplier 38 Pvt Ltd
+INV0038
+84199
+Filed
+04ABCDE00038F1Z5
+Supplier 39 Pvt Ltd
+INV0039
+93285
+Filed
+04ABCDE00039F1Z5
+Supplier 40 Pvt Ltd
+INV0040
+80667
+Filed
+04ABCDE00040F1Z5
+Supplier 41 Pvt Ltd
+INV0041
+99502
+Filed
+04ABCDE00041F1Z5
+Supplier 42 Pvt Ltd
+INV0042
+86368
+Filed
+04ABCDE00042F1Z5
+Supplier 43 Pvt Ltd
+INV0043
+93378
+Filed
+04ABCDE00043F1Z5
+Supplier 44 Pvt Ltd
+INV0044
+92637
+Filed
+04ABCDE00044F1Z5
+Supplier 45 Pvt Ltd
+INV0045
+99711
+Filed
+04ABCDE00045F1Z5
+Supplier 46 Pvt Ltd
+INV0046
+83820
+Filed
+04ABCDE00046F1Z5
+Supplier 47 Pvt Ltd
+INV0047
+90497
+Filed
+04ABCDE00047F1Z5
+Supplier 48 Pvt Ltd
+INV0048
+97200
+Filed
+04ABCDE00048F1Z5
+Supplier 49 Pvt Ltd
+INV0049
+94818
+Filed
+04ABCDE00049F1Z5
+Supplier 50 Pvt Ltd
+INV0050
+88543
+Filed
+04ABCDE00050F1Z5
+Supplier 51 Pvt Ltd
+INV0051
+86422
+Filed
+04ABCDE00051F1Z5
+Supplier 52 Pvt Ltd
+INV0052
+86871
+Filed
+04ABCDE00052F1Z5
+Supplier 53 Pvt Ltd
+INV0053
+83799
+Filed
+04ABCDE00053F1Z5
+Supplier 54 Pvt Ltd
+INV0054
+84203
+Filed
+04ABCDE00054F1Z5
+Supplier 55 Pvt Ltd
+INV0055
+98705
+Filed
+04ABCDE00055F1Z5
+Supplier 56 Pvt Ltd
+INV0056
+82404
+Filed
+04ABCDE00056F1Z5
+Supplier 57 Pvt Ltd
+INV0057
+84872
+Filed
+04ABCDE00057F1Z5
+Supplier 58 Pvt Ltd
+INV0058
+83912
+Filed
+04ABCDE00058F1Z5
+Supplier 59 Pvt Ltd
+INV0059
+80251
+Filed
+04ABCDE00059F1Z5
+Supplier 60 Pvt Ltd
+INV0060
+86138
+Filed
+04ABCDE00060F1Z5
+Supplier 61 Pvt Ltd
+INV0061
+98248
+Filed
+04ABCDE00061F1Z5
+Supplier 62 Pvt Ltd
+INV0062
+93419
+Filed
+04ABCDE00062F1Z5
+Supplier 63 Pvt Ltd
+INV0063
+80060
+Filed
+04ABCDE00063F1Z5
+Supplier 64 Pvt Ltd
+INV0064
+84983
+Filed
+04ABCDE00064F1Z5
+Supplier 65 Pvt Ltd
+INV0065
+98846
+Filed
+04ABCDE00065F1Z5
+Supplier 66 Pvt Ltd
+INV0066
+90664
+Filed
+04ABCDE00066F1Z5
+Supplier 67 Pvt Ltd
+INV0067
+92281
+Filed
+04ABCDE00067F1Z5
+Supplier 68 Pvt Ltd
+INV0068
+80786
+Filed
+04ABCDE00068F1Z5
+Supplier 69 Pvt Ltd
+INV0069
+91267
+Filed
+04ABCDE00069F1Z5
+Supplier 70 Pvt Ltd
+INV0070
+94382
+Filed
+04ABCDE00070F1Z5
+Supplier 71 Pvt Ltd
+INV0071
+86326
+Filed
+
+GSTIN
+Supplier Name
+Invoice No.
+Purchase Amount (I)
+Status
+04ABCDE00071F1Z5
+Supplier 72 Pvt Ltd
+INV0072
+82504
+Filed
+04ABCDE00072F1Z5
+Supplier 73 Pvt Ltd
+INV0073
+86715
+Filed
+04ABCDE00073F1Z5
+Supplier 74 Pvt Ltd
+INV0074
+85970
+Filed
+04ABCDE00074F1Z5
+Supplier 75 Pvt Ltd
+INV0075
+95569
+Filed
+04ABCDE00075F1Z5
+Supplier 76 Pvt Ltd
+INV0076
+81817
+Filed
+04ABCDE00076F1Z5
+Supplier 77 Pvt Ltd
+INV0077
+95859
+Filed
+04ABCDE00077F1Z5
+Supplier 78 Pvt Ltd
+INV0078
+92710
+Filed
+04ABCDE00078F1Z5
+Supplier 79 Pvt Ltd
+INV0079
+88096
+Filed
+04ABCDE00079F1Z5
+Supplier 80 Pvt Ltd
+INV0080
+92877
+Filed
+04ABCDE00080F1Z5
+Supplier 81 Pvt Ltd
+INV0081
+98942
+Filed
+04ABCDE00081F1Z5
+Supplier 82 Pvt Ltd
+INV0082
+94625
+Filed
+04ABCDE00082F1Z5
+Supplier 83 Pvt Ltd
+INV0083
+98326
+Filed
+04ABCDE00083F1Z5
+Supplier 84 Pvt Ltd
+INV0084
+95819
+Filed
+04ABCDE00084F1Z5
+Supplier 85 Pvt Ltd
+INV0085
+89285
+Filed
+04ABCDE00085F1Z5
+Supplier 86 Pvt Ltd
+INV0086
+86276
+Filed
+04ABCDE00086F1Z5
+Supplier 87 Pvt Ltd
+INV0087
+89351
+Filed
+04ABCDE00087F1Z5
+Supplier 88 Pvt Ltd
+INV0088
+87780
+Filed
+04ABCDE00088F1Z5
+Supplier 89 Pvt Ltd
+INV0089
+86353
+Filed
+04ABCDE00089F1Z5
+Supplier 90 Pvt Ltd
+INV0090
+81670
+Filed
+04ABCDE00090F1Z5
+Supplier 91 Pvt Ltd
+INV0091
+86173
+Filed
+04ABCDE00091F1Z5
+Supplier 92 Pvt Ltd
+INV0092
+99049
+Filed
+04ABCDE00092F1Z5
+Supplier 93 Pvt Ltd
+INV0093
+87873
+Filed
+04ABCDE00093F1Z5
+Supplier 94 Pvt Ltd
+INV0094
+81536
+Filed
+04ABCDE00094F1Z5
+Supplier 95 Pvt Ltd
+INV0095
+89524
+Filed
+04ABCDE00095F1Z5
+Supplier 96 Pvt Ltd
+INV0096
+97075
+Filed
+04ABCDE00096F1Z5
+Supplier 97 Pvt Ltd
+INV0097
+99759
+Filed
+04ABCDE00097F1Z5
+Supplier 98 Pvt Ltd
+INV0098
+96218
+Filed
+04ABCDE00098F1Z5
+Supplier 99 Pvt Ltd
+INV0099
+97654
+Filed
+04ABCDE00099F1Z5
+Supplier 100 Pvt Ltd
+INV0100
+81265
+Filed
+04ABCDE00100F1Z5
+Supplier 101 Pvt Ltd
+INV0101
+80979
+Filed
+04ABCDE00101F1Z5
+Supplier 102 Pvt Ltd
+INV0102
+96825
+Filed
+04ABCDE00102F1Z5
+Supplier 103 Pvt Ltd
+INV0103
+96579
+Filed
+04ABCDE00103F1Z5
+Supplier 104 Pvt Ltd
+INV0104
+83025
+Filed
+04ABCDE00104F1Z5
+Supplier 105 Pvt Ltd
+INV0105
+95736
+Filed
+04ABCDE00105F1Z5
+Supplier 106 Pvt Ltd
+INV0106
+94625
+Filed
+04ABCDE00106F1Z5
+Supplier 107 Pvt Ltd
+INV0107
+97608
+Filed
+04ABCDE00107F1Z5
+Supplier 108 Pvt Ltd
+INV0108
+90536
+Filed
+
+GSTIN
+Supplier Name
+Invoice No.
+Purchase Amount (I)
+Status
+04ABCDE00108F1Z5
+Supplier 109 Pvt Ltd
+INV0109
+82404
+Filed
+04ABCDE00109F1Z5
+Supplier 110 Pvt Ltd
+INV0110
+99839
+Filed
+04ABCDE00110F1Z5
+Supplier 111 Pvt Ltd
+INV0111
+84132
+Filed
+04ABCDE00111F1Z5
+Supplier 112 Pvt Ltd
+INV0112
+87080
+Filed
+04ABCDE00112F1Z5
+Supplier 113 Pvt Ltd
+INV0113
+98039
+Filed
+04ABCDE00113F1Z5
+Supplier 114 Pvt Ltd
+INV0114
+83657
+Filed
+04ABCDE00114F1Z5
+Supplier 115 Pvt Ltd
+INV0115
+98228
+Filed
+04ABCDE00115F1Z5
+Supplier 116 Pvt Ltd
+INV0116
+82084
+Filed
+04ABCDE00116F1Z5
+Supplier 117 Pvt Ltd
+INV0117
+83910
+Filed
+04ABCDE00117F1Z5
+Supplier 118 Pvt Ltd
+INV0118
+80965
+Filed
+04ABCDE00118F1Z5
+Supplier 119 Pvt Ltd
+INV0119
+86034
+Filed
+04ABCDE00119F1Z5
+Supplier 120 Pvt Ltd
+INV0120
+81390
+Filed
+
+Summary & Declaration
+This is a synthesized replica of an Annual Information Statement created for structural
+demonstration purposes only.
